@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/caaapstone/travelApp)
+
 # Flock
 
 Flock is a group travel planning app for long-distance friends. It generates the cheapest destinations for all individuals based on their different cities and budgets, provides activity search, real-time drag-and-drop “Idea Board” and scheduler for group collaboration, and produces an interactive map showing daily routes based on activity selection.
